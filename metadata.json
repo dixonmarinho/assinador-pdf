@@ -1,0 +1,5 @@
+{
+  "name": "Assinador PDF",
+  "description": "Aplicação para visualização e assinatura digital de documentos PDF.",
+  "requestFramePermissions": []
+}
